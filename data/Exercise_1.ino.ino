@@ -17,5 +17,6 @@ void loop() {
   delay(2000);
   digitalWrite(GREEN_LED, LOW);
   delay(1000);
+  //this is an additional comment
   
 }
